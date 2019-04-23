@@ -1,2 +1,4 @@
 wpu resolusi
 - bisa membuat aplikasi dan website
+- bisa membuat e-commerce
+- aplikasi android
